@@ -1,7 +1,6 @@
 # Flatten Algorithm
 -----
 ### Synopsis
-
 This repo contains a simple function which will flatten an array of arbitrarily nested integers. It includes unit tests which have been used to verify the code functions as expected. Non-integer items will raise a type error.
 -----
 ### Usage
